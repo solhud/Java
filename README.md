@@ -1,2 +1,2 @@
 # Java
-Pemograman OOP / Object Oriented Programming menggunakan bahasa java
+programming OOP / Object Oriented Programming use language java
